@@ -3,7 +3,7 @@
 This project simulates a real-world corporate finance environment using multi-year financial data.
 The objective was to analyze financial performance, identify trends, and forecast future revenue and cash flow.
 
-## Tools Used
+### Tools Used
 - SQL for data modeling and KPI queries
 - Python (pandas, statsmodels) for analysis and forecasting
 - Tableau for executive dashboards
